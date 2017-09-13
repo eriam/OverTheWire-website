@@ -3,16 +3,16 @@ layout: default
 gamename: bandit
 level: 15
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level can be retrieved by submitting the
 password of the current level to **port 30000 on localhost**.
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ssh, telnet, nc, openssl, s\_client, nmap
 
-Helpful Reading Material
+Documentation utile
 ------------------------
 - [How the Internet works in 5 minutes (YouTube)][] (Not completely
 accurate, but good enough for beginners)

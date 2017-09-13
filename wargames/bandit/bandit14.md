@@ -3,7 +3,7 @@ layout: default
 gamename: bandit
 level: 14
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level is stored in
 **/etc/bandit\_pass/bandit14 and can only be read by user
@@ -12,11 +12,11 @@ get a private SSH key that can be used to log into the next level.
 **Note:** **localhost** is a hostname that refers to the machine
 you are working on
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ssh, telnet, nc, openssl, s\_client, nmap
 
-Helpful Reading Material
+Documentation utile
 ------------------------
 - [SSH/OpenSSH/Keys][]
 

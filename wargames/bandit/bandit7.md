@@ -3,7 +3,7 @@ layout: default
 gamename: bandit
 level: 7
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level is stored **somewhere on the
 server** and has all of the following properties:
@@ -11,7 +11,7 @@ server** and has all of the following properties:
 -   owned by group bandit6
 -   33 bytes in size
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ls, cd, cat, file, du, find, grep
 

@@ -3,7 +3,7 @@ layout: default
 gamename: bandit
 level: 16
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level can be retrieved by submitting the
 password of the current level to **port 30001 on localhost** using
@@ -14,11 +14,11 @@ SSL encryption.
 Next to 'R' and 'Q', the 'B' command also works in this version of
 that command...**
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ssh, telnet, nc, openssl, s\_client, nmap
 
-Helpful Reading Material
+Documentation utile
 ------------------------
 - [Secure Socket Layer/Transport Layer Security on Wikipedia][]
 - [OpenSSL Cookbook - Testing with OpenSSL][]

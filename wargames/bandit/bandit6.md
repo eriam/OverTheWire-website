@@ -3,7 +3,7 @@ layout: default
 gamename: bandit
 level: 6
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level is stored in a file somewhere under
 the **inhere** directory and has all of the following properties:
@@ -11,7 +11,7 @@ the **inhere** directory and has all of the following properties:
 -   1033 bytes in size
 -   not executable
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ls, cd, cat, file, du, find
 

@@ -3,12 +3,12 @@ layout: default
 gamename: bandit
 level: 4
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level is stored in a hidden file in the
 **inhere** directory.
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ls, cd, cat, file, du, find
 

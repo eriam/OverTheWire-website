@@ -3,17 +3,17 @@ layout: default
 gamename: bandit
 level: 12
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level is stored in the file **data.txt**,
 where all lowercase (a-z) and uppercase (A-Z) letters have been
 rotated by 13 positions
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
-Helpful Reading Material
+Documentation utile
 ------------------------
 - [Rot13 on Wikipedia][]
 

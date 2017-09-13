@@ -3,7 +3,7 @@ layout: default
 gamename: bandit
 level: 0
 ---
-Level Goal
+Objectif du niveau
 ----------
 The goal of this level is for you to log into the game using SSH.
 The host to which you need to connect is
@@ -12,11 +12,11 @@ The username is **bandit0** and the password is **bandit0**. Once
 logged in, go to the [Level 1][] page to find out how to beat Level
 1.
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ssh
 
-Helpful Reading Material
+Documentation utile
 ------------------------
 - [Secure Shell (SSH) on Wikipedia][]
 - [How to use SSH on wikiHow][]

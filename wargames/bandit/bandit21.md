@@ -3,7 +3,7 @@ layout: default
 gamename: bandit
 level: 21
 ---
-Level Goal
+Objectif du niveau
 ----------
 There is a setuid binary in the homedirectory that does the
 following: it makes a connection to localhost on the port you
@@ -17,7 +17,7 @@ password for the next level (bandit21).
  **NOTE 2:** Try connecting to your own network daemon to see if it
 works as you think
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ssh, nc, cat, bash, screen, tmux
 

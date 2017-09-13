@@ -3,16 +3,16 @@ layout: default
 gamename: bandit
 level: 3
 ---
-Level Goal
+Objectif du niveau
 ----------
 The password for the next level is stored in a file called **spaces
 in this filename** located in the home directory
 
-Commands you may need to solve this level
+Commandes a connaitre pour resoudre ce niveau
 -----------------------------------------
 ls, cd, cat, file, du, find
 
-Helpful Reading Material
+Documentation utile
 ------------------------
 - [Google Search for "spaces in filename"][]
 
